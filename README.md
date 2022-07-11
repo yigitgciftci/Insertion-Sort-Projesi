@@ -43,7 +43,8 @@
 
 
 ## 4.
-    [2,6,16,18,22,27] sıralanır. [18]e bakıldığında 6 elemandan 4.sırada bulunduğu için AVERAGE CASE durumu olarak nitelendirilir.
+    [2,6,16,18,22,27] sıralanır. [18]e bakıldığında 6 elemandan 4.sırada bulunduğu için 
+    AVERAGE CASE durumu olarak nitelendirilir.
 
 
 ## 5.
@@ -66,3 +67,5 @@
     4.adım: [7] ve [6] yer değişir.
 
     [2,3,4,5,6],[9,8,15,7] olarak devam eder.
+    
+    www.patika.dev
