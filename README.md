@@ -70,4 +70,4 @@ Proje 1
 
     [2,3,4,5,6],[9,8,15,7] olarak devam eder.
     
-    (www.patika.dev)
+  (www.patika.dev)
