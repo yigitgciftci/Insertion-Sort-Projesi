@@ -1,5 +1,7 @@
 # Insertion-Sort-Projesi
 
+Proje 1
+
 ## [22,27,16,2,18,6] -> Insertion Sort
 
 ## 1.Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
@@ -68,4 +70,4 @@
 
     [2,3,4,5,6],[9,8,15,7] olarak devam eder.
     
-    www.patika.dev
+    (www.patika.dev)
